@@ -87,4 +87,4 @@ Sublime-Bypass is licensed under the zLib license.
 If you'd like to learn more about the zLib license, go to <https://opensource.org/licenses/Zlib>.
 
 # Notes
-Sublime-Bypass was tested with Sublime Merge and it failed, I'm currently looking on ways to fix this and have Sublime Merge work too. In the mean time use ~~ the way superior~~ Gitkraken or just stick with Git
+Sublime-Bypass was tested with Sublime Merge and it failed, I'm currently looking on ways to fix this and have Sublime Merge work too. In the mean time use ~~the way superior~~ Gitkraken or just stick with Git
