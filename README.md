@@ -104,3 +104,5 @@ YSBmZXcg cGx1Z2lu cy4KCi0g VGhlIHBl
 ZXBzIGF0 0IHRoZSB Lcml0dGV yaG91c2U
 —— END LICENSE ——
 ```
+
+I'd also like to add a pre-patched executable to this Repo but I'm not sure if I'm able to do that and honestly its not that big of a deal, just search up another method if this stops working.
