@@ -9,7 +9,7 @@ Sublime-Bypass is a tool that allows you to deactivate the activation system of 
 # Huh, how do i download and use Sublime-Bypass?
 Before you start downloading stuff, I have to tell you that there are two ways to use Sublime-Bypass, one of them is through patching Sublime Text/Merge by yourself (recommended) or downloading one of the pre-patched executables.
 
-To see the Patch-It-Yourself method, click [here](/PIT.md)
+To see the Patch-It-Yourself method, click [here](/pit.md)
 
 To download a pre-patched executable, go to the ["Releases"](https://github.com/CITIZENSIXTYNINE/Sublime-Bypass/releases) section on Github.
 
