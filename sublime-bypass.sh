@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Sublime-Bypass v1
 # A tool to bypass Sublime's activation process
 
@@ -10,7 +10,7 @@ RST="\x1B[0m"
 inputMerge=merge
 inputText=text
 
-printf "Sublime-Bypass v0.2 - Sublime Text License Deactivator\n\n"
+printf "Sublime-Bypass v1.1\n\n"
 printf "${RED}Before you start, make sure you HAVE modified your /etc/hosts file as specified.\n\n${RST}"
 printf "Please enter the Sublime product you're trying to crack [merge/text]\n>"
 read inputUser
