@@ -1,7 +1,3 @@
-# **HEY, PLEASE KEEP IN MIND THAT THIS TOOL IS UNDER TESTING AND UNDER DEVELOPMENT BY SOMEBODY WHO DOESN'T EVEN KNOW WHAT GREP DOES, SO IF SOMETHING DOESN'T WORK. OPEN AN ISSUE AND WAIT YEARS FOR IT TO BE FIXED OK THANKS**
-
----
-
 # Sublime-Bypass
 ## Remove Sublime Text's Activation process in less than 5 minutes!
 
@@ -24,8 +20,8 @@ Also, this patcher only works on Linux, there are **NO** plans to port this to W
 <summary>Pre-requisites</summary>
 <br>
 <ul>
-	<li>Sublime Text installed (prefferably from the official repos)</li>
-	<li><a href="https://github.com/CITIZENSIXTYNINE/Sublime-Bypass/blob/mistress/hosts.md">This piece of text on your /etc/hosts.</a></li>
+	<li>Sublime Text installed (preferably from the official source (sublimetext.com))</li>
+	<li><a href="/hosts.md">This piece of text on your /etc/hosts.</a></li>
 </details>
 
 Now that you have all of that, lets get into the installation and downloading.
@@ -36,7 +32,7 @@ But before you start, you'll (obviously) need a download of Sublime-Bypass on yo
 After that, just run this command and you're good to go!
 
 ```bash
-sudo sh sublime-bypass /opt/sublime_text/sublime_text # or replace it with the directory your Sublime is installed
+ sudo bash sublime-bypass.sh
 ```
 
 Now that you have Sublime Text patched, go to Help > Enter License and type whatever you want in there. Or even copy and paste this license!
@@ -57,8 +53,6 @@ CB6CCBA5 7DE6177B C02C2826 8C9A21B0
 -- END LICENSE --
 ```
 
-
-
 # Troubleshooting
 1. The script did nothing!
 - Try to reboot your computer and re-try to run it. If that doesn't work, check if you selected the Sublime executable. If you did all of those and it still didn't work; please open an Issue through Github and explain everything you've done. Also note that Sublime HQ might patch this method at any time, so keep that in mind.
@@ -69,12 +63,11 @@ CB6CCBA5 7DE6177B C02C2826 8C9A21B0
 3. I have questions about this, can i contact you?
 - Sure! just shoot a DM to me on Keybase (@kamikodev) or Email me at <citizensixtynine@protonmail.com>
 
-4. My pizza got cold
-- sorry to hear that, microwave each slice for 1 minute and done.
-
 # Credits
 
 Thanks to [leogx9r](https://github.com/leogx9r) for giving an [explanation](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451#gistcomment-3762200) on how these methods work, and overall providing commands and patchers.
+
+And a lot of thanks to [maboloshi](https://github.com/maboloshi) for practically [making the commands](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47) that Sublime-Bypass, without their work. Sublime-Bypass would have taken a lot of time to release heh.
 
 # License
 Sublime-Bypass is licensed under the zLib license.
@@ -105,4 +98,5 @@ ZXBzIGF0 0IHRoZSB Lcml0dGV yaG91c2U
 —— END LICENSE ——
 ```
 
-I'd also like to add a pre-patched executable to this Repo but I'm not sure if I'm able to do that and honestly its not that big of a deal, just search up another method if this stops working.
+
+<!-- Take this code, its yours. --!>
