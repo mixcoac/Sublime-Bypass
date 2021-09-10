@@ -1,17 +1,17 @@
 #!/bin/sh
-# Sublime-Bypass v1
+# Sublime-Bypass v1.2
 # A tool to bypass Sublime's activation process
 
 # Kudos to maboloshi and leo
-# This software is licensed under the zlib license. Please go to https://opensource.org/licenses/Zlib to learn more about it
+# This software is licensed under the Unlicense. Please go to https://unlicense.org to learn more about it.
 
 RED="\x1B[31m"
 RST="\x1B[0m"
 inputMerge=merge
 inputText=text
 
-printf "Sublime-Bypass v1.1\n\n"
-printf "${RED}Before you start, make sure you HAVE modified your /etc/hosts file as specified.\n\n${RST}"
+printf "Sublime-Bypass v1.2\n\n"
+printf "${RED}Before you start, make sure you HAVE modified your /etc/hosts file as specified earlier.\n\n${RST}"
 printf "Please enter the Sublime product you're trying to crack [merge/text]\n>"
 read inputUser
 
