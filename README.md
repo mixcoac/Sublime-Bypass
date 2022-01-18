@@ -29,9 +29,8 @@ Remember, Morals over Legality.
 
 # Credits
 
-Thanks to [leogx9r](https://github.com/leogx9r) for giving an [explanation](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451#gistcomment-3762200) on how these methods work, without their work, Sublime-Bypass would have never been possible.
-
-And a lot of thanks to [maboloshi](https://github.com/maboloshi) for practically [making the commands](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47) that Sublime-Bypass, without their work. Sublime-Bypass would have taken a lot of time to release heh.
++ [leogx9r](https://github.com/leogx9r) for creating the [method](https://gist.github.com/JerryLokjianming/71dac05f27f8c96ad1c8941b88030451#gistcomment-3762200) used by Sublime-Bypass.
++ [maboloshi](https://github.com/maboloshi) for [making the commands](https://gist.github.com/maboloshi/feaa63c35f4c2baab24c9aaf9b3f4e47) that Sublime-Bypass uses.
 
 # License
 Sublime-Bypass is licensed under the Unlicense (aka Public Domain).
@@ -41,27 +40,8 @@ If you'd like to learn more about the Unlicense, go to <https://unlicense.org/>.
 # Notes
 There are no plans to port Sublime-Bypass to other operating systems. Mainly due to #LinuxElitism and because I have no way to test those versions, you can make forks and even push some branches if you find a way to port this into those operating systems. And from what I've read, leogx9r (creator/researcher of the method Sublime-Bypass uses) has a working Windows patcher (and apparently there are no plans to release it so... yeah).
 
-Sublime Bypass has been tested with Sublime Text 4113
+Sublime Bypass has been tested with Sublime Text 4126
 
 Please **DON'T** sponsor me or donate to me because of this project.
-
-I also made this fake license with a little easter egg (just remove the whitespaces and parse it through a Base64 Decoder :D), use it if you want... or not you do you.
-
-
-```txt
-—– BEGIN LICENSE —–
-Richard Matthew Stallman
-Unlimited User License
-LIBRE-4EVER
-SSBhbSBu b3QgZ29u bmEgcGF5 IDk54oKs
-IG9uIGEg ZnVja2lu ZyBsaWNl bnNlIGZv
-ciBhIHRl eHQgZWRp dG9yLCBz cGVjaWFs
-bHkgZm9y IG9uZSB0 aGF0IGNh biBiZSBt
-aW1pY2tl ZCB3aXRo IE5lb3Zp bSBhbmQg
-YSBmZXcg cGx1Z2lu cy4KCi0g VGhlIHBl
-ZXBzIGF0 0IHRoZSB Lcml0dGV yaG91c2U
-—— END LICENSE ——
-```
-
 
 <!-- Take this code, its yours. --!>

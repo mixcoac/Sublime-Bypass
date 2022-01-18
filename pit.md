@@ -1,6 +1,6 @@
 # Sublime-Bypass - Patch-It-Yourself (PIT)
 
-This document will guide you on how to patch any Sublime product (Text or Merge) in under 5 minutes.
+This document will guide you on how to patch any Sublime product (Text or Merge) in under a minute.
 
 <details>
 <summary>Pre-requisites</summary>
@@ -8,11 +8,10 @@ This document will guide you on how to patch any Sublime product (Text or Merge)
 <ul>
 	<li>Sublime Text installed (preferably from the official source (sublimetext.com))</li>
 	<li><a href="/hosts.md">This piece of text on your /etc/hosts.</a></li>
-	<li>A copy of this Repository, you can just clone it or download it from the Releases section in Github (make sure you click "Source Code")</li>
+	<li>A copy of `sublime-bypass.sh`</li>
 </details>
 
 Now that you have all of that, lets get into the installation/patching!
-
 
 First, make sure you're on the directory where you downloaded the repo. Then run this command (this is the patcher itself) and follow the instructions.
 
@@ -20,7 +19,7 @@ First, make sure you're on the directory where you downloaded the repo. Then run
  sudo bash sublime-bypass.sh
 ```
 
-Now that you have patched your Sublime product, go to Help > Enter License and type whatever you want in there. Or even copy and paste this license!
+Now that you have patched your Sublime product (Merge or Text), go to Help > Enter License and type whatever you want in there. Or even copy and paste this license!
 
 ```txt
 -- BEGIN LICENSE --
